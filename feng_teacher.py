@@ -10,13 +10,13 @@ driver = webdriver.Firefox()
 driver.maximize_window()
 # driver.get('https://weibo.com/login.php')
 
-# #开始登录操作
-# driver.find_element_by_id('loginname').send_keys(username)
-# driver.find_element_by_xpath('//*[@id="pl_login_form"]/div/div[3]/div[2]/div/input').send_keys(pwd)
-# #不记住用户
-# driver.find_element_by_xpath('//*[@id="pl_login_form"]/div/div[3]/div[5]/label/span').click()
+#开始登录操作
+driver.find_element_by_id('loginname').send_keys(username)
+driver.find_element_by_xpath('//*[@id="pl_login_form"]/div/div[3]/div[2]/div/input').send_keys(pwd)
+#不记住用户
+driver.find_element_by_xpath('//*[@id="pl_login_form"]/div/div[3]/div[5]/label/span').click()
 
-# driver.find_element_by_xpath('//*[@id="pl_login_form"]/div/div[3]/div[6]/a').click()
+driver.find_element_by_xpath('//*[@id="pl_login_form"]/div/div[3]/div[6]/a').click()
 driver.get("https://weibo.com/p/1005051577826897/home?from=page_100505&mod=TAB&is_hot=1#place")
 
 while True:
