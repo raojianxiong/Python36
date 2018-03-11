@@ -39,13 +39,18 @@ class Job(object):
         self.__driver.find_element_by_xpath('//*[@id="work_position_input"]').click()
         time.sleep(1)
         try:
+            #定位当前地方
             self.__driver.find_element_by_xpath('//*[@id="work_position_click_multiple_selected_each_050000"]/em').click()
         except:
-            print("您已设置为全国搜索了")
+            try:
+                #可能帮你定到国外，这两种是常见的
+                self.__driver.find_element_by_xpath('//*[@id="work_position_click_multiple_selected_each_360000"]/em').click()
+            except:
+                print("您已设置为全国搜索了")
         self.__driver.find_element_by_xpath('//*[@id="work_position_click_bottom_save"]').click()
         #开始搜索进入到搜索页面
         self.__driver.find_element_by_xpath('/html/body/div[3]/div/div[1]/div/button').click()
-        time.sleep(2)
+        time.sleep(1)
     
     #保存数据到excel中
     def __saveDataToExcel(self,jobs):
@@ -66,24 +71,32 @@ class Job(object):
         jobs.append(name)
         salary = salary[0] if len(salary) > 0 else ''
         jobs.append(salary)
-        detail = detail[0] if len(detail) > 0 else ''
+        detail = detail if len(detail) > 0 else ''
         jobs.append(detail)
         site = site[0] if len(site) > 0 else ''
         jobs.append(site)
-    
         return jobs
+
     #工作简介职责
     def __getJobDetail(self,site):
         try:
             site = site[0] if len(site) > 0 else ''
-            text = requests.get(site,timeout=2).text
-            selector = etree.HTML(text)
+            res = requests.get(site,timeout=2)
+            res.encoding = 'gbk'
+            selector = etree.HTML(res.text)
             #有时候是p标签组成的，有时候没有p标签
-            jobDetails = selector.xpath('/html/body/div[3]/div[2]/div[3]/div[2]/div/text()')
-            detail = jobDetails[0] if len(jobDetails) > 0 else ''
+            detail = ""
+            ps = selector.xpath('/html/body/div[3]/div[2]/div[3]/div[2]/p')
+            if ps is None:
+                for p in ps:
+                    detail +=p.xpath('./text()')[0]
+            else:
+                jobDetails = selector.xpath('/html/body/div[3]/div[2]/div[3]/div[2]/div/text()')
+                for i in range(0,len(jobDetails)):
+                    detail += ("\n"+jobDetails[i])
+            return detail
         except:
-            detail = "暂无"
-        return detail
+            return "暂无"
 
     #获取51job上的数据
     def getData(self,work='Python'):
