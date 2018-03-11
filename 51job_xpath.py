@@ -64,7 +64,7 @@ class Job(object):
         jobs = []
         jobs.append(self.__count)
         title = title[0] if len(title) > 0 else ''
-        jobs.append(title)
+        jobs.append(title.strip())
         address = address[0] if len(address) > 0 else ''
         jobs.append(address)
         name = name[0] if len(name) > 0 else ''
@@ -72,7 +72,7 @@ class Job(object):
         salary = salary[0] if len(salary) > 0 else ''
         jobs.append(salary)
         detail = detail if len(detail) > 0 else ''
-        jobs.append(detail)
+        jobs.append(detail.strip())
         site = site[0] if len(site) > 0 else ''
         jobs.append(site)
         return jobs
@@ -85,18 +85,14 @@ class Job(object):
             res.encoding = 'gbk'
             selector = etree.HTML(res.text)
             #有时候是p标签组成的，有时候没有p标签
-            detail = ""
-            ps = selector.xpath('/html/body/div[3]/div[2]/div[3]/div[2]/p')
-            if ps is None:
-                for p in ps:
-                    detail +=p.xpath('./text()')[0]
-            else:
-                jobDetails = selector.xpath('/html/body/div[3]/div[2]/div[3]/div[2]/div/text()')
-                for i in range(0,len(jobDetails)):
-                    detail += ("\n"+jobDetails[i])
+            jobDetails = selector.xpath('//div[@class="bmsg job_msg inbox"]')
+            detail = jobDetails[0].xpath('string(.)').strip()
+            print("div : ",detail)
             return detail
-        except:
-            return "暂无"
+        except Exception as e:
+            return "暂无数据"
+            
+          
 
     #获取51job上的数据
     def getData(self,work='Python'):
