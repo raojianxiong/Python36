@@ -72,6 +72,18 @@ class Job(object):
         jobs.append(site)
     
         return jobs
+    #工作简介职责
+    def __getJobDetail(self,site):
+        try:
+            site = site[0] if len(site) > 0 else ''
+            text = requests.get(site,timeout=2).text
+            selector = etree.HTML(text)
+            #有时候是p标签组成的，有时候没有p标签
+            jobDetails = selector.xpath('/html/body/div[3]/div[2]/div[3]/div[2]/div/text()')
+            detail = jobDetails[0] if len(jobDetails) > 0 else ''
+        except:
+            detail = "暂无"
+        return detail
 
     #获取51job上的数据
     def getData(self,work='Python'):
@@ -90,20 +102,10 @@ class Job(object):
                 address=div.xpath('./span[2]/text()')
                 name=div.xpath('./span[1]/a/@title')
                 salary = div.xpath('./span[3]/text()')
-                site = div.xpath('/p/span/a/@href')
+                site = div.xpath('./p/span/a/@href')
 
-                data = []
-                try:
-                    text = requests.get(site,timeout=2).text
-                    selector = etree.HTML(text)
-                    jobDetails = selector.xpath('/html/body/div[3]/div[2]/div[3]/div[2]/div/p')
+                detail = self.__getJobDetail(site)
                 
-                    for p in jobDetails:
-                        jobDetail = p.xpath('./text()')
-                        data.append(jobDetail)
-                except:
-                    data.append("暂无")
-                detail = "".join(data)
                 jobs = self.__fitterField(title,address,name,salary,detail,site)
                 #开始存入到excel中
                 self.__saveDataToExcel(jobs)
