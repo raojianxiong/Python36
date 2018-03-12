@@ -77,8 +77,8 @@ class Job(object):
                         #存在p节点
                         for p in ps:
                             p_data.append(p.string)
-                        else:
-                            p_data.append(div.get_text().strip())
+                    else:
+                        p_data.append(div.get_text().strip())
                 except Exception as e:
                     print(str(e))
                     p_data.append("暂无")
