@@ -55,6 +55,7 @@ class jd():
                 try:
                     # 抢购
                     self.driver.find_element_by_id("choose-btn-ko").click()
+                    break
                 except:
                     count+=1
                     
