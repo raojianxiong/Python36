@@ -1,0 +1,1793 @@
+1524744562462	geckodriver	INFO	geckodriver 0.19.1
+1524744562469	geckodriver	INFO	Listening on 127.0.0.1:53721
+1524744565553	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.mGmvEqMazbsG"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524744566773	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 444, Chrome_ChildThread] WARNING: piUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524744568420	Marionette	INFO	Listening on port 53739
+1524744568689	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524744568737	Marionette	DEBUG	Register listener.js for window 4294967297
+1524744568776	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+1524744639231	geckodriver	INFO	geckodriver 0.19.1
+1524744639237	geckodriver	INFO	Listening on 127.0.0.1:53878
+1524744642345	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.lQtXjVI9XIzG"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524744642828	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6776, Chrome_ChildThreUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524744644169	Marionette	INFO	Listening on port 53890
+1524744644354	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524744644405	Marionette	DEBUG	Register listener.js for window 4294967297
+1524744645699	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524744646595	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524744646596	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524744647342	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10/p1"
+1524744650643	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10/p1"
+1524744651694	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin/ch10/p1"
+1524744652072	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin/ch10/p1"
+1524744652073	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin/ch10/p1"
+1524744652133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10/p2"
+1524744652142	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10/p2"
+1524744670465	Marionette	DEBUG	Register listener.js for window 4294967304
+1524744670524	Marionette	DEBUG	Register listener.js for window 4294967307
+1524744708993	Marionette	DEBUG	Register listener.js for window 4294967313
+1524744725000	Marionette	DEBUG	Register listener.js for window 4294967316
+1524744780468	geckodriver	INFO	geckodriver 0.19.1
+1524744780475	geckodriver	INFO	Listening on 127.0.0.1:54551
+1524744783589	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.6nUdUSFea8mO"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524744784051	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12788, Chrome_ChUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524744785302	Marionette	INFO	Listening on port 54563
+1524744785599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524744785651	Marionette	DEBUG	Register listener.js for window 4294967297
+1524744786042	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524744786748	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524744786748	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524744786785	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524744786826	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+1524744787887	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin/ch10"
+1524744788264	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin/ch10"
+1524744788264	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin/ch10"
+1524744788287	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10/p2"
+1524744788305	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10/p2"
+1524744981677	geckodriver	INFO	geckodriver 0.19.1
+1524744981684	geckodriver	INFO	Listening on 127.0.0.1:54900
+1524744984815	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.oUDNtMpffih1"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524744985309	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8724, Chrome_ChildThread] WARNING: pUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524744986690	Marionette	INFO	Listening on port 54913
+1524744986824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524744986874	Marionette	DEBUG	Register listener.js for window 4294967297
+1524744987287	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524744987995	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524744987995	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524744988037	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524744988075	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 9960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9960, Chrome_ChildThread] WARNI*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 14896, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524746035653	geckodriver	INFO	geckodriver 0.19.1
+1524746035659	geckodriver	INFO	Listening on 127.0.0.1:56437
+1524746038780	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.Sh5CIoW66RxN"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746039230	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14068, Chrome_ChildThread] WARNIUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746040436	Marionette	INFO	Listening on port 56449
+1524746040787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524746040831	Marionette	DEBUG	Register listener.js for window 4294967297
+1524746041206	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524746041938	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524746041939	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524746042003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524746042038	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 14848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14540, Chrome_ChildThread] WARNIN[Child 13476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13476, Chrome_ChildThread] WARNIN*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 1980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1524746170327	geckodriver	INFO	geckodriver 0.19.1
+1524746170334	geckodriver	INFO	Listening on 127.0.0.1:56675
+1524746173445	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.nbQXT5IUpEa7"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746173920	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15120, Chrome_ChildThread] WARNINGUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746175265	Marionette	INFO	Listening on port 56687
+1524746175456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524746175504	Marionette	DEBUG	Register listener.js for window 4294967297
+1524746175904	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524746176922	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524746176923	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524746179123	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524746179134	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524746219874	geckodriver	INFO	geckodriver 0.19.1
+1524746219881	geckodriver	INFO	Listening on 127.0.0.1:56850
+1524746223002	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.RfYQXpaWx2bS"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746223464	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746224654	Marionette	INFO	Listening on port 56862
+1524746225015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524746225060	Marionette	DEBUG	Register listener.js for window 4294967297
+1524746225456	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524746226385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524746226385	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524746228497	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524746228508	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524746229530	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524746230318	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524746230319	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524746230698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524746233503	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524746234537	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524746235534	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524746235535	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524746236292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524746264284	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1524746267456	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 16024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16024, Chrome_ChildThread]1524746372705	geckodriver	INFO	geckodriver 0.19.1
+1524746372712	geckodriver	INFO	Listening on 127.0.0.1:57456
+1524746375826	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZB1ipBpI4qP5"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746376303	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15860, Chrome_ChildThread] WARNING: pipe error: 109: fUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746377501	Marionette	INFO	Listening on port 57468
+1524746377835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524746377887	Marionette	DEBUG	Register listener.js for window 4294967297
+1524746378273	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524746379224	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524746379224	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524746381296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524746381306	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524746382328	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524746382996	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524746382996	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524746383371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524746387001	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524746388018	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524746389250	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524746389251	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524746389570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524746443596	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524746467505	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 11520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524746717121	geckodriver	INFO	geckodriver 0.19.1
+1524746717128	geckodriver	INFO	Listening on 127.0.0.1:58295
+1524746720254	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.31y13COX1IBs"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746720726	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11164, Chrome_ChildThreadUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746721920	Marionette	INFO	Listening on port 58307
+1524746722263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524746722309	Marionette	DEBUG	Register listener.js for window 4294967297
+1524746722687	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524746723644	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524746723644	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524746725958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524746725967	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524746726987	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524746727653	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524746727653	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524746728031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524746732427	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524746733466	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524746734712	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524746734713	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524746735032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524746821972	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+1524746832550	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+[Child 14424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14424, Chrome_ChildTh1524746944027	geckodriver	INFO	geckodriver 0.19.1
+1524746944034	geckodriver	INFO	Listening on 127.0.0.1:58929
+1524746947154	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.jpbhHvsi7coT"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746947644	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chroUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524746948856	Marionette	INFO	Listening on port 58941
+1524746949163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524746949210	Marionette	DEBUG	Register listener.js for window 4294967297
+1524746949593	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524746950515	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524746950515	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524746952412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524746952423	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524746953463	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524746954149	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524746954150	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524746954506	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524746958004	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524746959025	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524746960512	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524746960513	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524746960785	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524747055316	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524747159775	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1928, Chrome_ChildThread]1524747283312	geckodriver	INFO	geckodriver 0.19.1
+1524747283320	geckodriver	INFO	Listening on 127.0.0.1:59854
+1524747286427	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.pn3nRVmEcjc0"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524747286951	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10800, Chrome_ChildThreaUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524747288114	Marionette	INFO	Listening on port 59874
+1524747288436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524747288481	Marionette	DEBUG	Register listener.js for window 4294967297
+1524747288872	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524747289074	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524747289074	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524747289636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524747289653	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524747290676	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524747290834	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524747290834	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524747291152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524747291169	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524747292195	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524747292725	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524747292725	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524747293032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524747314250	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+1524747382421	geckodriver	INFO	geckodriver 0.19.1
+1524747382429	geckodriver	INFO	Listening on 127.0.0.1:60164
+1524747385537	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.1zRJh5WrRcnA"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524747386019	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9372, Chrome_ChildThread] WARNING: pipe errorUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524747387369	Marionette	INFO	Listening on port 60176
+1524747387562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524747387611	Marionette	DEBUG	Register listener.js for window 4294967297
+1524747388041	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524747388233	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524747388234	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524747388781	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524747388902	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524747389927	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524747390102	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524747390103	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524747390412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524747390436	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524747391459	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524747392045	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524747392046	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524747392345	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524747413665	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+1524747487555	geckodriver	INFO	geckodriver 0.19.1
+1524747487562	geckodriver	INFO	Listening on 127.0.0.1:60401
+1524747490663	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.eTkHyU1DRzo3"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524747491127	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12720, Chrome_ChildThread] WUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524747492328	Marionette	INFO	Listening on port 60413
+1524747492674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524747492719	Marionette	DEBUG	Register listener.js for window 4294967297
+1524747493093	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524747493278	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524747493278	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524747493826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524747493851	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524747494862	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524747495009	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524747495009	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524747495309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524747495329	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524747496349	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524747496843	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524747496844	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524747497118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524747518365	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 13360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13360, Chrome_ChildThread] WARNING: pip1524747634720	geckodriver	INFO	geckodriver 0.19.1
+1524747634726	geckodriver	INFO	Listening on 127.0.0.1:60748
+1524747637848	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.9QPd4B4nOSPo"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524747638331	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8316, Chrome_ChildThreaUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524747639547	Marionette	INFO	Listening on port 60760
+1524747639857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524747639905	Marionette	DEBUG	Register listener.js for window 4294967297
+1524747640269	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524747640470	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524747640470	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524747641001	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524747641116	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524747642136	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524747642305	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524747642305	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524747642615	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524747642635	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524747643653	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524747644177	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524747644177	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524747644498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524747660122	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524747665708	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 9276, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1524748056985	geckodriver	INFO	geckodriver 0.19.1
+1524748056992	geckodriver	INFO	Listening on 127.0.0.1:61435
+1524748060096	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.cKK2ZgZK7yQw"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524748060569	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15068, Chrome_ChildThrUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524748061787	Marionette	INFO	Listening on port 61448
+1524748062104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524748062157	Marionette	DEBUG	Register listener.js for window 4294967297
+1524748062506	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524748062667	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524748062667	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524748063188	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524748063300	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524748064320	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524748064534	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524748064535	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524748064848	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524748064868	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524748065891	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524748066517	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524748066518	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524748066886	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524748086779	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524748088121	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 11980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11980, Chrome_ChildThread1524748230391	geckodriver	INFO	geckodriver 0.19.1
+1524748230397	geckodriver	INFO	Listening on 127.0.0.1:61777
+1524748233477	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.yCQQMCnfSQqk"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524748233919	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16196, Chrome_ChildThread] WARUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524748235286	Marionette	INFO	Listening on port 61789
+1524748235484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524748235533	Marionette	DEBUG	Register listener.js for window 4294967297
+1524748235893	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524748236069	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524748236069	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524748236640	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524748236733	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524748237756	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524748237995	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524748237996	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524748238304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524748238328	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524748239347	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524748239875	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524748239875	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524748240227	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524748255882	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524748261691	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 3964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14112, Chrome_ChildThread] WARNING: pipe er1524748619495	geckodriver	INFO	geckodriver 0.19.1
+1524748619502	geckodriver	INFO	Listening on 127.0.0.1:62415
+1524748622615	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.lc6t9RocXgwC"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524748623144	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524748624354	Marionette	INFO	Listening on port 62427
+1524748624632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524748624682	Marionette	DEBUG	Register listener.js for window 4294967297
+1524748625051	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524748625290	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524748625291	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524748625832	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524748625943	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524748626964	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524748627183	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524748627184	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524748627485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524748627509	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524748628531	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524748629161	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524748629161	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524748629480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524748644997	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524748650662	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 8924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 916, Chrome_ChildThread] WARNING: 1524748785964	geckodriver	INFO	geckodriver 0.19.1
+1524748785971	geckodriver	INFO	Listening on 127.0.0.1:62782
+1524748789085	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.zA9saUi2aEzM"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524748789541	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524748790743	Marionette	INFO	Listening on port 62794
+1524748791094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524748791148	Marionette	DEBUG	Register listener.js for window 4294967297
+1524748791503	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524748791669	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524748791669	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524748792182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524748792199	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524748793222	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524748793434	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524748793435	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524748793718	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524748793738	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524748794756	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524748795527	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524748795528	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524748795857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524748817115	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 13120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13120, Chrome_ChildThread] 1524748900285	geckodriver	INFO	geckodriver 0.19.1
+1524748900292	geckodriver	INFO	Listening on 127.0.0.1:63042
+1524748903394	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.mPIEPNH3c3eM"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524748903850	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524748905021	Marionette	INFO	Listening on port 63056
+1524748905403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524748905448	Marionette	DEBUG	Register listener.js for window 4294967297
+1524748905795	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524748905954	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524748905955	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524748906500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524748906598	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524748907615	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524748907821	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524748907821	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524748908109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524748908139	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524748909162	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524748909815	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524748909815	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524748910145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524748928161	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524748931441	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 15708, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15056, Chrome_ChildThread] W1524749188402	geckodriver	INFO	geckodriver 0.19.1
+1524749188409	geckodriver	INFO	Listening on 127.0.0.1:63610
+1524749191536	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.WFuwo7gcCpfb"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524749192019	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13948, Chrome_ChildThread] WARNIUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524749193222	Marionette	INFO	Listening on port 63622
+1524749193547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524749193598	Marionette	DEBUG	Register listener.js for window 4294967297
+1524749193971	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524749194144	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524749194144	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524749194730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524749194911	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524749195932	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524749196134	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524749196135	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524749196431	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524749196452	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524749197474	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524749197953	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524749197954	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524749198310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524749213985	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524749219479	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 16288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524753818743	geckodriver	INFO	geckodriver 0.19.1
+1524753818750	geckodriver	INFO	Listening on 127.0.0.1:64852
+1524753821815	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.LtQaFkvdAwJ4"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524753822280	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4272, Chrome_ChildThread] WARNING: pipe error: 109Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524753823543	Marionette	INFO	Listening on port 64864
+1524753823824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524753823871	Marionette	DEBUG	Register listener.js for window 4294967297
+1524753824228	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524753824392	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524753824393	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524753824887	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524753825045	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524753826067	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524753826238	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524753826238	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524753826533	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524753826564	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524753827584	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524753828123	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524753828123	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524753828410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524753843304	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524753849622	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 11592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11592, Chrome_ChildThrea1524753937789	geckodriver	INFO	geckodriver 0.19.1
+1524753937796	geckodriver	INFO	Listening on 127.0.0.1:65134
+1524753940917	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.Vw3sFZM4TWgh"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524753941381	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6192, Chrome_ChildThread] WARNIUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524753942596	Marionette	INFO	Listening on port 65146
+1524753942932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524753942984	Marionette	DEBUG	Register listener.js for window 4294967297
+1524753943402	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524753943576	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524753943576	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524753944174	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524753947468	geckodriver	INFO	geckodriver 0.19.1
+1524753947475	geckodriver	INFO	Listening on 127.0.0.1:65214
+1524753950564	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.qteXBrGQJ6Ki"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524753951047	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13436, Chrome_ChildThread] WARNING: pipUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524753952228	Marionette	INFO	Listening on port 65228
+1524753952577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524753952623	Marionette	DEBUG	Register listener.js for window 4294967297
+1524753952965	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524753953179	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524753953179	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524753953683	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524753953795	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524753954816	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524753954997	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524753954997	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524753955306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524753955339	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524753956361	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524753956853	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524753956853	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524753957163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524753978390	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 10848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10848, Chrome_ChildThrea1524754064044	geckodriver	INFO	geckodriver 0.19.1
+1524754064051	geckodriver	INFO	Listening on 127.0.0.1:65511
+1524754067186	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.JMT7DWLRcyzE"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754067636	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754068837	Marionette	INFO	Listening on port 65523
+1524754069193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524754069235	Marionette	DEBUG	Register listener.js for window 4294967297
+1524754069622	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524754069792	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524754069792	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524754070424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524754070448	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524754071469	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524754071653	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524754071654	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524754071944	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524754071965	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524754072985	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524754073557	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524754073558	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524754073917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524754089623	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524754095121	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+1524754410511	geckodriver	INFO	geckodriver 0.19.1
+1524754410517	geckodriver	INFO	Listening on 127.0.0.1:49879
+1524754413603	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.s4v6jgheQOTa"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754414062	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754415233	Marionette	INFO	Listening on port 49892
+1524754415611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524754415655	Marionette	DEBUG	Register listener.js for window 4294967297
+1524754416002	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524754416204	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524754416204	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524754416731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524754416880	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524754417900	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524754418077	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524754418078	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524754418396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524754418414	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524754419434	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524754419883	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524754419884	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524754420183	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524754436084	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524754441426	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 9944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9944, Chrome_ChildThread] WARNI1524754603596	geckodriver	INFO	geckodriver 0.19.1
+1524754603602	geckodriver	INFO	Listening on 127.0.0.1:50282
+1524754606717	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.PMuufU7prQJg"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754607163	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14992, Chrome_ChildThUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754608383	Marionette	INFO	Listening on port 50294
+1524754608729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524754608778	Marionette	DEBUG	Register listener.js for window 4294967297
+1524754609132	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524754609317	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524754609317	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524754610030	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524754610046	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524754611058	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524754611210	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524754611211	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524754611511	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524754611530	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524754612542	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524754612978	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524754612978	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524754613316	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524754634557	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 8844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8844, Chrome_ChildThread] WARN1524754689102	geckodriver	INFO	geckodriver 0.19.1
+1524754689109	geckodriver	INFO	Listening on 127.0.0.1:50518
+1524754692235	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.FdLTb2pZjpJg"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754692716	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7064, Chrome_ChildThreUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754693921	Marionette	INFO	Listening on port 50531
+1524754694255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524754694301	Marionette	DEBUG	Register listener.js for window 4294967297
+1524754694656	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524754694821	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524754694822	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524754695370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524754695512	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524754696532	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524754696695	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524754696695	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524754696976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524754697000	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524754698020	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524754698605	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524754698605	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524754698896	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524754714671	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524754720174	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 12976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1524754869692	geckodriver	INFO	geckodriver 0.19.1
+1524754869698	geckodriver	INFO	Listening on 127.0.0.1:50910
+1524754872836	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZDSgKYgc4L7A"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754873384	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6416, Chrome_ChildThread] WARNING: pipe errorUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754874599	Marionette	INFO	Listening on port 50922
+1524754874849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524754874899	Marionette	DEBUG	Register listener.js for window 4294967297
+1524754875269	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524754875464	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524754875464	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524754876010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524754876037	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524754877050	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524754877203	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524754877204	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524754877504	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524754877524	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524754878541	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524754879012	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524754879012	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524754879341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524754900564	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 5272, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12876, Chrome_ChildThread] WAR1524754978086	geckodriver	INFO	geckodriver 0.19.1
+1524754978093	geckodriver	INFO	Listening on 127.0.0.1:51171
+1524754981198	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.BUvFXUyDkyGG"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754981656	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: [D3D11] TextureSourceD3D11:GetShaderResourceView CreateSRV failure 0x887a0005
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+[Child 4276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4276, Chrome_ChildThread] WARNUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524754982863	Marionette	INFO	Listening on port 51185
+1524754983218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524754983261	Marionette	DEBUG	Register listener.js for window 4294967297
+1524754983608	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524754983802	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524754983802	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524754984390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524754984410	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524754985425	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524754985593	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524754985594	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524754985901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524754985934	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524754986954	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524754987474	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524754987474	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524754987775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524755008328	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524755009043	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 10336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10336, Chrome_ChildThread] WARNI1524755562032	geckodriver	INFO	geckodriver 0.19.1
+1524755562039	geckodriver	INFO	Listening on 127.0.0.1:52338
+1524755565149	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.T3Mo3oJ0YWRd"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524755565594	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10644, Chrome_ChildThreUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524755566791	Marionette	INFO	Listening on port 52350
+1524755567161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524755567205	Marionette	DEBUG	Register listener.js for window 4294967297
+1524755567545	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524755567719	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524755567720	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524755568230	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524755568250	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524755569269	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524755569550	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524755569551	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524755569864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524755569881	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524755570901	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524755571521	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524755571522	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524755571839	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524755593083	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 14760, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524756992046	geckodriver	INFO	geckodriver 0.19.1
+1524756992052	geckodriver	INFO	Listening on 127.0.0.1:54630
+1524756995169	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.p4Nvu2yW5kU6"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524756995724	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2620, Chrome_ChildThreUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524756996917	Marionette	INFO	Listening on port 54643
+1524756997179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524756997233	Marionette	DEBUG	Register listener.js for window 4294967297
+1524756997615	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524756997813	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524756997814	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524756998968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524756998985	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524757000004	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524757000247	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524757000247	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524757000554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524757000573	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524757001592	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524757002060	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524757002060	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524757002334	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524757017652	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524757023556	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 14664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524757300858	geckodriver	INFO	geckodriver 0.19.1
+1524757300865	geckodriver	INFO	Listening on 127.0.0.1:55229
+1524757304016	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.DHB9v62OsF7Q"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524757304472	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14136, Chrome_ChildThread] WARNIUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524757305886	Marionette	INFO	Listening on port 55244
+1524757306034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524757306089	Marionette	DEBUG	Register listener.js for window 4294967297
+1524757306451	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524757306677	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524757306677	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524757307214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524757307308	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524757308328	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524757308506	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524757308506	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524757308822	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524757308844	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524757309866	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524757310353	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524757310353	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524757310635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524757331884	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 5108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5396, Chrome_1524757733342	geckodriver	INFO	geckodriver 0.19.1
+1524757733348	geckodriver	INFO	Listening on 127.0.0.1:56025
+1524757736466	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.mNfy6EeQZOrI"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524757736913	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[ChUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524757738110	Marionette	INFO	Listening on port 56038
+1524757738476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524757738520	Marionette	DEBUG	Register listener.js for window 4294967297
+1524757738890	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524757739065	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524757739065	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524757739555	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524757739688	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524757740710	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524757740885	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524757740885	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524757741201	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524757741219	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524757742240	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524757742746	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524757742746	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524757743049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524757758952	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524757764236	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 16248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3328, Chrome_ChildThread1524757841806	geckodriver	INFO	geckodriver 0.19.1
+1524757841813	geckodriver	INFO	Listening on 127.0.0.1:56301
+1524757844883	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.dXXAFjLAuKg2"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524757845343	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524757846519	Marionette	INFO	Listening on port 56313
+1524757846899	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524757846945	Marionette	DEBUG	Register listener.js for window 4294967297
+1524757847302	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524757847477	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524757847478	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524757847986	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524757848032	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524757849059	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524757849218	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524757849218	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524757849531	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524757849550	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524757850573	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524757851034	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524757851035	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524757851325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524757868456	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524757872545	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 11504, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16156, Chrome_ChildThread]1524758027287	geckodriver	INFO	geckodriver 0.19.1
+1524758027293	geckodriver	INFO	Listening on 127.0.0.1:56694
+1524758030399	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.WwLtXyJ2v1Jm"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524758030841	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4920, Chrome_ChildThread] WARNUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524758032043	Marionette	INFO	Listening on port 56708
+1524758032411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524758032457	Marionette	DEBUG	Register listener.js for window 4294967297
+1524758032813	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524758032977	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524758032978	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524758033482	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524758033580	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524758034602	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524758034771	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524758034772	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524758035086	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524758035107	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524758036128	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524758036637	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524758036638	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524758036917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524758058169	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+1524758154208	geckodriver	INFO	geckodriver 0.19.1
+1524758154214	geckodriver	INFO	Listening on 127.0.0.1:57117
+1524758157327	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.8Lr3Rz7FjYWC"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524758157837	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8256, Chrome_ChildThread] WARUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524758159048	Marionette	INFO	Listening on port 57129
+1524758159339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524758159388	Marionette	DEBUG	Register listener.js for window 4294967297
+1524758159753	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524758159964	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524758159964	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524758160707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524758160724	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524758161747	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524758161908	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524758161909	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524758162239	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524758162258	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524758163286	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524758163771	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524758163771	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524758164108	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524758185303	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 14572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14572, Chrome_ChildThread] WARN1524758477298	geckodriver	INFO	geckodriver 0.19.1
+1524758477305	geckodriver	INFO	Listening on 127.0.0.1:57877
+1524758480428	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.OmcxSeLkuled"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524758480900	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11892, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15156, Chrome_ChildThread]Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524758482110	Marionette	INFO	Listening on port 57892
+1524758482442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524758482490	Marionette	DEBUG	Register listener.js for window 4294967297
+1524758482842	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524758483012	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524758483013	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524758483588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524758483605	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524758484620	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524758484798	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524758484798	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524758485087	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524758485104	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524758486113	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524758486640	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524758486640	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524758486938	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524758508157	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 13324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524758863607	geckodriver	INFO	geckodriver 0.19.1
+1524758863614	geckodriver	INFO	Listening on 127.0.0.1:58639
+1524758866696	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZuwFwJyQRcEk"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524758867190	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13844, Chrome_ChildThUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524758868450	Marionette	INFO	Listening on port 58651
+1524758868709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524758868756	Marionette	DEBUG	Register listener.js for window 4294967297
+1524758869137	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524758869304	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524758869304	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524758869820	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524758869853	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524758870872	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524758871044	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524758871045	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524758871348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524758871366	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524758872378	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524758872834	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524758872834	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524758873194	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524758894423	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 2424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524759045706	geckodriver	INFO	geckodriver 0.19.1
+1524759045713	geckodriver	INFO	Listening on 127.0.0.1:59038
+1524759048835	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.agOkEpDwGDS5"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524759049277	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7188, Chrome_ChildThread] WARNING: pUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524759050453	Marionette	INFO	Listening on port 59052
+1524759050841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524759050884	Marionette	DEBUG	Register listener.js for window 4294967297
+1524759051231	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524759051418	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524759051419	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524759052004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524759052021	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524759053042	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524759053226	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524759053227	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524759053518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524759053537	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524759054558	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524759055138	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524759055138	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524759055425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524759076674	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 4004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13116, Chrome_ChildThread] WARNING:1524759500990	geckodriver	INFO	geckodriver 0.19.1
+1524759500996	geckodriver	INFO	Listening on 127.0.0.1:60124
+1524759504103	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.KLrPK0E5Vtip"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524759504629	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1792, Chrome_ChildThreUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524759505816	Marionette	INFO	Listening on port 60140
+1524759506116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524759506163	Marionette	DEBUG	Register listener.js for window 4294967297
+1524759506521	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524759506697	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524759506697	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524759507325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524759507346	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524759508370	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524759508545	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524759508545	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524759508872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524759508890	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524759509900	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524759510435	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524759510436	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524759510745	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524759530838	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524759531944	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 16120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16120, Chrome_ChildThread1524759573897	geckodriver	INFO	geckodriver 0.19.1
+1524759573903	geckodriver	INFO	Listening on 127.0.0.1:60358
+1524759577015	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.iOqg21bbaPJI"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524759577517	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[ChildUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524759578722	Marionette	INFO	Listening on port 60371
+1524759579025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524759579073	Marionette	DEBUG	Register listener.js for window 4294967297
+1524759579431	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524759579609	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524759579609	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524759580156	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524759580250	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524759581262	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524759581571	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524759581572	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524759581915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524759581931	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524759582947	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524759583845	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524759583845	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524759584152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524759605407	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 8684, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14376, Chrome_ChildThread] WARN1524759844817	geckodriver	INFO	geckodriver 0.19.1
+1524759844823	geckodriver	INFO	Listening on 127.0.0.1:60974
+1524759847927	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.Lc4HDFh3d4xv"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524759848378	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11700, Chrome_ChildThread] WUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524759849556	Marionette	INFO	Listening on port 60988
+1524759849936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524759849982	Marionette	DEBUG	Register listener.js for window 4294967297
+1524759850337	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524759850527	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524759850528	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524759851172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524759851186	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524759852203	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524759852376	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524759852376	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524759852731	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524759852749	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524759853757	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524759854229	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524759854230	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524759854517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524759875716	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 5092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5092, Chrome_ChildThread] WARNING: p1524760106216	geckodriver	INFO	geckodriver 0.19.1
+1524760106222	geckodriver	INFO	Listening on 127.0.0.1:61652
+1524760109338	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.kpCRyJYk3ljH"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524760109843	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4268, Chrome_ChildThread]Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524760111065	Marionette	INFO	Listening on port 61667
+1524760111348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524760111400	Marionette	DEBUG	Register listener.js for window 4294967297
+1524760111764	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524760111950	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524760111950	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524760112517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524760112664	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524760113677	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524760113938	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524760113939	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524760114272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524760114291	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524760115315	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524760115859	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524760115859	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524760116235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524760137436	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 13208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13208, Chrome_ChildThread] WARNING:1524760232643	geckodriver	INFO	geckodriver 0.19.1
+1524760232650	geckodriver	INFO	Listening on 127.0.0.1:61973
+1524760235769	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.45olVA8VZPcU"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524760236248	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11684, Chrome_ChilUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524760237574	Marionette	INFO	Listening on port 61986
+1524760237782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524760237844	Marionette	DEBUG	Register listener.js for window 4294967297
+1524760238221	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524760238380	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524760238380	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524760238981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524760239003	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524760240024	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524760240179	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524760240180	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524760240518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524760240541	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524760241562	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524760242015	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524760242015	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524760242305	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524760263526	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Child 10496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10496, Chrome_ChildThread] WARNING: pipe 1524760448321	geckodriver	INFO	geckodriver 0.19.1
+1524760448329	geckodriver	INFO	Listening on 127.0.0.1:62433
+1524760451428	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.fFZuhxQu8f1I"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524760451894	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5048, Chrome_ChildThread] WARNING: pUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524760453106	Marionette	INFO	Listening on port 62447
+1524760453445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524760453493	Marionette	DEBUG	Register listener.js for window 4294967297
+1524760453831	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524760453997	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524760453998	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524760454632	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/"
+1524760454739	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/"
+1524760455759	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/"
+1524760455930	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/"
+1524760455931	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/"
+1524760456275	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524760456293	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524760457313	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.dianping.com/tianjin"
+1524760457904	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.dianping.com/tianjin"
+1524760457905	Marionette	DEBUG	Received DOM event "unload" for "http://www.dianping.com/tianjin"
+1524760458214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin/ch10"
+1524760473971	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1524760479436	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin/ch10"
+[Parent 6244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1700, Chrome_ChildThread] WARNING: pipe error: 1524761163551	geckodriver	INFO	geckodriver 0.19.1
+1524761163557	geckodriver	INFO	Listening on 127.0.0.1:63922
+1524761166648	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.KixAQlvy45ry"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761167134	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10852, Chrome_ChildThread] WAUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761168374	Marionette	INFO	Listening on port 63934
+1524761168663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524761168730	Marionette	DEBUG	Register listener.js for window 4294967297
+1524761194807	geckodriver	INFO	geckodriver 0.19.1
+1524761194814	geckodriver	INFO	Listening on 127.0.0.1:64013
+1524761197880	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.FtiHMRixaUk2"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761198384	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13340, Chrome_ChildThread] WUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761199610	Marionette	INFO	Listening on port 64028
+1524761200067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524761200115	Marionette	DEBUG	Register listener.js for window 4294967297
+1524761225603	geckodriver	INFO	geckodriver 0.19.1
+1524761225610	geckodriver	INFO	Listening on 127.0.0.1:64165
+1524761228727	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.HTn61TJ6Wjkl"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761229202	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761230388	Marionette	INFO	Listening on port 64177
+1524761230735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524761230783	Marionette	DEBUG	Register listener.js for window 4294967297
+1524761251560	geckodriver	INFO	geckodriver 0.19.1
+1524761251567	geckodriver	INFO	Listening on 127.0.0.1:64245
+1524761254688	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.2hYWvgBiT1Xw"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761255140	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[ChiUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761256364	Marionette	INFO	Listening on port 64257
+1524761256695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524761256742	Marionette	DEBUG	Register listener.js for window 4294967297
+1524761326545	geckodriver	INFO	geckodriver 0.19.1
+1524761326552	geckodriver	INFO	Listening on 127.0.0.1:64560
+1524761329659	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.WzR8kZyBIGDa"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761330161	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761331401	Marionette	INFO	Listening on port 64573
+1524761331668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524761331717	Marionette	DEBUG	Register listener.js for window 4294967297
+1524761491060	geckodriver	INFO	geckodriver 0.19.1
+1524761491067	geckodriver	INFO	Listening on 127.0.0.1:64871
+1524761494175	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.k5HvkZMNHRlz"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761494768	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15544, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ChUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761495990	Marionette	INFO	Listening on port 64884
+1524761496195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524761496248	Marionette	DEBUG	Register listener.js for window 4294967297
+1524761593763	geckodriver	INFO	geckodriver 0.19.1
+1524761593771	geckodriver	INFO	Listening on 127.0.0.1:65143
+1524761596868	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.F7gIszWTfvhH"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761597380	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15920, Chrome_ChildThread] Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524761598617	Marionette	INFO	Listening on port 65157
+1524761598887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524761598934	Marionette	DEBUG	Register listener.js for window 4294967297
+[Child 5536, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1524762882702	geckodriver	INFO	geckodriver 0.19.1
+1524762882708	geckodriver	INFO	Listening on 127.0.0.1:52125
+1524762885799	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.sFoqwUzPtH0j"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524762886259	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 19888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19888, Chrome_ChildThreUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524762887781	Marionette	INFO	Listening on port 52139
+1524762887826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524762887883	Marionette	DEBUG	Register listener.js for window 4294967297
+1524762888501	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+1524763109763	geckodriver	INFO	geckodriver 0.19.1
+1524763109770	geckodriver	INFO	Listening on 127.0.0.1:52642
+1524763112881	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.ltRN6CQfMnOB"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763113377	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20584, Chrome_ChildThread]Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763114632	Marionette	INFO	Listening on port 52656
+1524763114890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524763114940	Marionette	DEBUG	Register listener.js for window 4294967297
+1524763146687	geckodriver	INFO	geckodriver 0.19.1
+1524763146694	geckodriver	INFO	Listening on 127.0.0.1:52738
+1524763149773	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.XFdAWNOZoeQa"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763150236	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 20888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20888, Chrome_ChildTUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763151744	Marionette	INFO	Listening on port 52752
+1524763151789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524763151839	Marionette	DEBUG	Register listener.js for window 4294967297
+1524763152484	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 123"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:123 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:138 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:52 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:31 < uninit()@resource://activity-stream/lib/Store.jsm:151 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:266 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4509 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2281 < GeckoDriver.prototype.quit()@driver.js:3307 < despatch()@server.js:553 < execute()@server.js:527 < onPacket/<()@server.js:502 < onPacket()@server.js:501 < _onJSONObjectReady/<()@transport.js:501
+1524763159707	geckodriver	INFO	geckodriver 0.19.1
+1524763159714	geckodriver	INFO	Listening on 127.0.0.1:52793
+1524763162800	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.He0tbFyQV3pY"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763163416	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763164815	Marionette	INFO	Listening on port 52806
+1524763165924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524763165990	Marionette	DEBUG	Register listener.js for window 4294967297
+[Child 150561524763446481	geckodriver	INFO	geckodriver 0.19.1
+1524763446496	geckodriver	INFO	Listening on 127.0.0.1:49772
+1524763449584	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.LwG98c5fQvTm"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763450718	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13204, Chrome_ChildThread] WARNING: pipe error: 10Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763452358	Marionette	INFO	Listening on port 49801
+1524763452706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524763452757	Marionette	DEBUG	Register listener.js for window 4294967297
+1524763502071	geckodriver	INFO	geckodriver 0.19.1
+1524763502078	geckodriver	INFO	Listening on 127.0.0.1:49849
+1524763505215	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.ehzzh3II0EBD"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763505649	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3192, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9824, Chrome_ChildThread] WARNINGUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763506824	Marionette	INFO	Listening on port 49858
+1524763507222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524763507265	Marionette	DEBUG	Register listener.js for window 4294967297
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1524763526130	geckodriver	INFO	geckodriver 0.19.1
+1524763526137	geckodriver	INFO	Listening on 127.0.0.1:49885
+1524763529249	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.5vJJOLGGP8DU"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763529686	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5896, Chrome_ChildThread] Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763530832	Marionette	INFO	Listening on port 49893
+1524763531260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524763531304	Marionette	DEBUG	Register listener.js for window 4294967297
+[Child 9584, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1524763626617	geckodriver	INFO	geckodriver 0.19.1
+1524763626624	geckodriver	INFO	Listening on 127.0.0.1:50000
+1524763629757	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.Fsb2ZvesOVns"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763630544	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763631925	Marionette	INFO	Listening on port 50009
+1524763632881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524763632965	Marionette	DEBUG	Register listener.js for window 4294967297
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1524763704644	geckodriver	INFO	geckodriver 0.19.1
+1524763704650	geckodriver	INFO	Listening on 127.0.0.1:50054
+1524763707774	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.BPuhqa23WoFP"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763708199	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3716, Chrome_ChildThread] WARNINUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524763709332	Marionette	INFO	Listening on port 50064
+1524763709782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524763709826	Marionette	DEBUG	Register listener.js for window 4294967297
+1524764406315	geckodriver	INFO	geckodriver 0.19.1
+1524764406322	geckodriver	INFO	Listening on 127.0.0.1:50878
+1524764409438	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.ydOPjkhtHHt3"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524764409890	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524764411068	Marionette	INFO	Listening on port 50888
+1524764411444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524764411488	Marionette	DEBUG	Register listener.js for window 4294967297
+[GFX1-]: Receive IPC close with r1524764519665	geckodriver	INFO	geckodriver 0.19.1
+1524764519671	geckodriver	INFO	Listening on 127.0.0.1:50934
+1524764522784	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.0oYA52V1NHkC"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524764523224	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2612, Chrome_ChildThreaUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524764524397	Marionette	INFO	Listening on port 50945
+1524764524792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524764524835	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 1128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6600, Chrome_ChildThread] WA1524764651522	geckodriver	INFO	geckodriver 0.19.1
+1524764651528	geckodriver	INFO	Listening on 127.0.0.1:50995
+1524764654629	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.SL0C0lXp6RMz"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524764655122	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4744, Chrome_ChilUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524764656338	Marionette	INFO	Listening on port 51003
+1524764656637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524764656684	Marionette	DEBUG	Register listener.js for window 4294967297
+[Parent 10992, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 448, Chrome_ChildThread] W1524764707429	geckodriver	INFO	geckodriver 0.19.1
+1524764707436	geckodriver	INFO	Listening on 127.0.0.1:51035
+1524764710548	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.5OdrrttUDHd6"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524764710982	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[CUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524764712129	Marionette	INFO	Listening on port 51043
+1524764712555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524764712613	Marionette	DEBUG	Register listener.js for window 4294967297
+[Child 1388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1388, Chrome_ChildThread] WAR1524791014078	geckodriver	INFO	geckodriver 0.19.1
+1524791014092	geckodriver	INFO	Listening on 127.0.0.1:51308
+1524791017174	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.acvsjhUGv49e"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791018328	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791019910	Marionette	INFO	Listening on port 51316
+1524791020303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524791020372	Marionette	DEBUG	Register listener.js for window 4294967297
+1524791042906	geckodriver	INFO	geckodriver 0.19.1
+1524791042914	geckodriver	INFO	Listening on 127.0.0.1:51344
+1524791045978	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.IKpcdWYImeHH"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791046417	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3016, Chrome_ChildThUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791047561	Marionette	INFO	Listening on port 51352
+1524791047985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524791048037	Marionette	DEBUG	Register listener.js for window 4294967297
+[Child 11180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11180, Chrome_ChildThread] WARNING: pipe error: 109: fil1524791244895	geckodriver	INFO	geckodriver 0.19.1
+1524791244902	geckodriver	INFO	Listening on 127.0.0.1:51419
+1524791248023	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.eBAwmJZLvVti"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791248462	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13540, Chrome_ChildThread] WARNING: pipeUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791249626	Marionette	INFO	Listening on port 51429
+1524791250034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524791250103	Marionette	DEBUG	Register listener.js for window 4294967297
+1524791250118	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524791250280	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524791250280	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524791250753	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524791250992	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524791253090	Marionette	DEBUG	Register listener.js for window 4294967301
+1524791253154	Marionette	DEBUG	Register listener.js for window 4294967304
+1524791253360	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524791305487	geckodriver	INFO	geckodriver 0.19.1
+1524791305494	geckodriver	INFO	Listening on 127.0.0.1:51534
+1524791308624	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.zfsYZk5DMAZw"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791309099	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2980, Chrome_ChildThrUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791310247	Marionette	INFO	Listening on port 51542
+1524791310630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524791310677	Marionette	DEBUG	Register listener.js for window 4294967297
+1524791310726	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524791310891	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524791310891	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524791311429	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524791311446	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524791313543	Marionette	DEBUG	Register listener.js for window 4294967301
+1524791313582	Marionette	DEBUG	Register listener.js for window 4294967304
+1524791313804	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 1160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1160, Chrome_ChildThread]1524791382026	geckodriver	INFO	geckodriver 0.19.1
+1524791382033	geckodriver	INFO	Listening on 127.0.0.1:51645
+1524791385100	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.P9UHaanrasVI"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791385536	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7068, Chrome_ChildThreaUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791386794	Marionette	INFO	Listening on port 51655
+1524791387113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524791387156	Marionette	DEBUG	Register listener.js for window 4294967297
+1524791387172	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524791387422	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524791387422	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524791387934	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524791387952	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524791390059	Marionette	DEBUG	Register listener.js for window 4294967301
+1524791390085	Marionette	DEBUG	Register listener.js for window 4294967304
+1524791390308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 12344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12344, Chrome_ChildThrea1524791686846	geckodriver	INFO	geckodriver 0.19.1
+1524791686853	geckodriver	INFO	Listening on 127.0.0.1:52189
+1524791689928	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.nj3Z33EruHPL"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791690384	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524791691539	Marionette	INFO	Listening on port 52201
+1524791691935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524791691979	Marionette	DEBUG	Register listener.js for window 4294967297
+1524791692009	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524791692300	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524791692300	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524791692858	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524791692878	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524791694979	Marionette	DEBUG	Register listener.js for window 4294967301
+1524791695009	Marionette	DEBUG	Register listener.js for window 4294967304
+1524791695233	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 14208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[1524833653345	geckodriver	INFO	geckodriver 0.19.1
+1524833653359	geckodriver	INFO	Listening on 127.0.0.1:55163
+1524833656504	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.OTUTSY1RII8E"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524833657785	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[ChiUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524833659416	Marionette	INFO	Listening on port 55175
+1524833659638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524833659685	Marionette	DEBUG	Register listener.js for window 4294967297
+1524833659717	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524833659919	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524833659919	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524833660499	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524833660537	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524833662638	Marionette	DEBUG	Register listener.js for window 4294967301
+1524833662679	Marionette	DEBUG	Register listener.js for window 4294967304
+1524833662923	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 4524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524834217133	geckodriver	INFO	geckodriver 0.19.1
+1524834217140	geckodriver	INFO	Listening on 127.0.0.1:56164
+1524834220217	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.9oyGqAHInwOY"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524834220703	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5008, Chrome_ChildThread] WARNING:Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524834221845	Marionette	INFO	Listening on port 56176
+1524834222236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524834222287	Marionette	DEBUG	Register listener.js for window 4294967297
+1524834222303	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524834222491	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524834222492	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524834223012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524834223161	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524834225262	Marionette	DEBUG	Register listener.js for window 4294967301
+1524834225305	Marionette	DEBUG	Register listener.js for window 4294967304
+1524834225530	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 2316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1524834638309	geckodriver	INFO	geckodriver 0.19.1
+1524834638316	geckodriver	INFO	Listening on 127.0.0.1:56966
+1524834641430	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.rk0Dt4aig9FB"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524834641880	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3168, Chrome_ChildThrUnable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524834643043	Marionette	INFO	Listening on port 56978
+1524834643447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524834643490	Marionette	DEBUG	Register listener.js for window 4294967297
+1524834643505	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524834643707	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524834643707	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524834644282	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524834644304	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524834646400	Marionette	DEBUG	Register listener.js for window 4294967301
+1524834646430	Marionette	DEBUG	Register listener.js for window 4294967304
+1524834646656	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524834906850	geckodriver	INFO	geckodriver 0.19.1
+1524834906856	geckodriver	INFO	Listening on 127.0.0.1:57455
+1524834909971	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.Se7vdjmXk7Gn"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524834910408	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524834911552	Marionette	INFO	Listening on port 57467
+1524834911979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524834912040	Marionette	DEBUG	Register listener.js for window 4294967297
+1524834912057	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524834912229	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524834912229	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524834912780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524834912886	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524834914989	Marionette	DEBUG	Register listener.js for window 4294967301
+1524834915020	Marionette	DEBUG	Register listener.js for window 4294967304
+1524834915250	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://static.meituan.net/bs/yoda-static/file:file/d/js/yoda.f36f2291aa078271.js, line 4: TypeError: n is undefined
+JavaScript error: https://static.meituan.net/bs/yoda-static/file:file/d/js/yoda.f36f2291aa078271.js, line 4: TypeError: n is undefined
+JavaScript error: https://static.meituan.net/bs/yoda-static/file:file/d/js/yoda.f36f2291aa078271.js, line 4: TypeError: n is undefined
+JavaScript error: https://static.meituan.net/bs/yoda-static/file:file/d/js/yoda.f36f2291aa078271.js, line 4: TypeError: n is undefined
+JavaScript error: https://static.meituan.net/bs/yoda-static/file:file/d/js/yoda.f36f2291aa078271.js, line 4: TypeError: n is undefined
+JavaScript error: https://static.meituan.net/bs/yoda-static/file:file/d/js/yoda.f36f2291aa078271.js, line 4: TypeError: n is undefined
+JavaScript error: https://static.meituan.net/bs/yoda-static/file:file/d/js/yoda.f36f2291aa078271.js, line 4: TypeError: n is undefined
+1524836597648	geckodriver	INFO	geckodriver 0.19.1
+1524836597655	geckodriver	INFO	Listening on 127.0.0.1:58886
+1524836600770	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\JIANXI~1\\AppData\\Local\\Temp\\rust_mozprofile.rfSUhIHelXGx"
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524836601585	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11792, Chrome_ChildThread] WARNING: pipe error: 1Unable to read VR Path Registry from C:\Users\Jianxiong Rao\AppData\Local\openvr\openvrpaths.vrpath
+1524836603104	Marionette	INFO	Listening on port 58894
+1524836603888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524836603974	Marionette	DEBUG	Register listener.js for window 4294967297
+1524836603993	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524836604180	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524836604181	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524836604717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.dianping.com/tianjin"
+1524836605290	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.dianping.com/tianjin"
+1524836607384	Marionette	DEBUG	Register listener.js for window 4294967301
+1524836607431	Marionette	DEBUG	Register listener.js for window 4294967304
+1524836607653	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1524836633614	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+[Parent 13032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7120, Chrome_ChildThread] WAR[
