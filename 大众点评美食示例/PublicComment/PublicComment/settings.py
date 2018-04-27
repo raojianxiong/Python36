@@ -58,6 +58,7 @@ DOWNLOADER_MIDDLEWARES = {
     # 'PublicComment.middlewares.PubliccommentDownloaderMiddleware': 543,
     'PublicComment.middlewares.CustomUserAgentMiddleware': 542,
     # 'PublicComment.middlewares.RandomProxyMiddlesare': 125,
+    'PublicComment.middlewares.SeleniumScrapyMiddleware': 112,
     'scrapy.contrib.downloadermiddleware.httpproxy.HttpProxyMiddleware': None,
     'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware': None
 }

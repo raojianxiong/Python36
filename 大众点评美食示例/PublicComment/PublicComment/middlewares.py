@@ -154,7 +154,7 @@ from selenium import webdriver
 from scrapy.http import HtmlResponse
 
 
-class PhantomJSScrapyMiddleware(object):
+class SeleniumScrapyMiddleware(object):
     isFirst = True
 
     def process_request(self, request, spider):
