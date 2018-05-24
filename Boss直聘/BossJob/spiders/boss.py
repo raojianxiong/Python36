@@ -29,8 +29,8 @@ class BossSpider(scrapy.Spider):
             item['company_link'] = parse.urljoin('https://zhipin.com', node.css('.company-text > h3 a::attr(href)').extract_first(""))  # 记住需要拼接url
 
             yield item
-            next_a = response.css('div.page > a.next::attr(href)').extract_first()
-            print(next_a)
-            if next_a != 'javascript:;':
-                print("https://www.zhipin.com"+next_a)
-                yield scrapy.Request("https://www.zhipin.com" + next_a, callback=self.parse)
+        next_a = response.css('div.page > a.next::attr(href)').extract_first()
+        print(next_a)
+        if next_a != 'javascript:;':
+            print("https://www.zhipin.com"+next_a)
+            yield scrapy.Request("https://www.zhipin.com" + next_a, callback=self.parse)
